@@ -9,5 +9,4 @@ func PrintStr(str string) {
 	for index := range char {
 		z01.PrintRune(char[index])
 	}
-	z01.PrintRune(10)
 }
